@@ -1,0 +1,19 @@
+titre {
+color : red;
+background-color: blueviolet;
+font-size: 32;
+
+}
+
+paraf {
+
+    color : red;
+    background-color: black;
+    font-size: 24;
+    text-align: center;
+}
+
+descript {
+    font-size: 15px;
+    text-align: center;
+}
